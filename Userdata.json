@@ -107,5 +107,11 @@
         "expirydate": "26-02-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a8d1f83afdedf19c",
+        "key": "Akash",
+        "expirydate": "26-02-2026",
+        "Allowoffline": true
+    },
     
 ]
