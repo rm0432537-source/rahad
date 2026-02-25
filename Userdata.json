@@ -83,5 +83,11 @@
         "expirydate": "26-02-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3c9652ee7e5a7f8d",
+        "key": "jubayer",
+        "expirydate": "26-02-2026",
+        "Allowoffline": true
+    },
     
 ]
