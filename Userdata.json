@@ -47,6 +47,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
-    
+    {
+        "device_id": "3bcfebcdebb963f4",
+        "key": "tanvir",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
