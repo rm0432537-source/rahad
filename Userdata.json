@@ -53,5 +53,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c3901ed5ffd9cd50",
+        "key": "shadow",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
