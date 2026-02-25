@@ -65,5 +65,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e1bc24dfce0a9e5c",
+        "key": "anas",
+        "expirydate": "26-02-2026",
+        "Allowoffline": true
+    },
     
 ]
