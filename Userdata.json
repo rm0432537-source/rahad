@@ -20,6 +20,12 @@
     {
         "device_id": "f8f05955df03b611",
         "key": "showrov",
+        "expirydate": "26-2-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b6982d54cd477a2e",
+        "key": "sojib",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
