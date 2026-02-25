@@ -35,4 +35,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f7ad3745e24d42a1",
+        "key": "ashik",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    
+    
 ]
