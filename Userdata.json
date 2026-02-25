@@ -4,19 +4,19 @@
         "key": "rahad",
         "expirydate": "31-12-2026",
         "Allowoffline": true
-    }
+    },
     {
         "device_id": "",
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline":
-    }
+    },
     {
         "device_id": "f8f878eb84f8be2c",
         "key": "rivan",
         "expirydate": "31-12-2026",
         "Allowoffline": true
-    }
+    },
     {
         "device_id": "f8f05955df03b611",
         "key": "showrov",
