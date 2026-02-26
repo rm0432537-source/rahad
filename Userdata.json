@@ -238,5 +238,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c442681059b5264a",
+        "key": "simul",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
