@@ -232,5 +232,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f8f05955df03b611",
+        "key": "showrov",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
