@@ -190,5 +190,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a1f453836c6e2742",
+        "key": "aminul11",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
