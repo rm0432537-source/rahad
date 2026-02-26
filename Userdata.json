@@ -143,5 +143,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "cc0b09e585871c05",
+        "key": "sumon",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
