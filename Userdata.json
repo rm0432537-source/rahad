@@ -149,5 +149,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "fa3434c066655109",
+        "key": "sakib",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
