@@ -178,5 +178,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "815bb660b23e61c7",
+        "key": "rahad",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
