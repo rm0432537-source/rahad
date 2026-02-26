@@ -137,5 +137,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f457273c655a58d1",
+        "key": "abu",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
