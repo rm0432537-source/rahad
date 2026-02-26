@@ -220,5 +220,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f06e1f1221ecabbe",
+        "key": "tamimavg",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
