@@ -250,5 +250,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ae788dc78dfec87e",
+        "key": "Mahin10",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
