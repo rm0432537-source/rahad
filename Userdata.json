@@ -286,4 +286,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "826c15393aa0b135",
+        "key": "anik",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
