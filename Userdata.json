@@ -292,4 +292,16 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d7152cc2f995e24a",
+        "key": "Bangla",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "bfe68439a8e7b00b",
+        "key": "naim",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
