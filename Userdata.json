@@ -304,4 +304,16 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "858a7eb945f2657f",
+        "key": "tamim",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "24ba889c1c5fb33f",
+        "key": "tamim1",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
