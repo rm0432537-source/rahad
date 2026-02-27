@@ -322,4 +322,16 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "fbae4b351ef23808",
+        "key": "mubin",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "6e8630ac765356e6",
+        "key": "mubin1",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
