@@ -274,5 +274,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
-    
+    {
+        "device_id": "41d5391270b671e9",
+        "key": "siyam001",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
