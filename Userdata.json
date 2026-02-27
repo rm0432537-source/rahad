@@ -280,4 +280,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "540ba510799c46f2",
+        "key": "sojib1",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
