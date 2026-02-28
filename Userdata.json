@@ -340,4 +340,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "94af392296bda3ea",
+        "key": "romon",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
